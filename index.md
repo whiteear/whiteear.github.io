@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: twitter
 title: whiteear's time machine
 tagline: Supporting tagline
 ---
