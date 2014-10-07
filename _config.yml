@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://whiteear.github.io/
+author: whiteear 
+pygments: true
+paginate: 24
