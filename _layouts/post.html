@@ -38,6 +38,12 @@ layout: default
   <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
 </span>
 </section>
+
+<!-- 添加baidu地图支持 -->
+{% if page.ditu %}
+{% include ditu.md %}
+{% endif %}
+
 {% include comments.md %}
 <script type="text/javascript">
 $(function(){

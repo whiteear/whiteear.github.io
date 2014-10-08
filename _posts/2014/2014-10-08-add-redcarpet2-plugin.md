@@ -22,18 +22,18 @@ def foob():
 
 html block:
 
-``` html
+{% highlight html linos %}
 <body>
    <ul>list sample
       <li>first
       <li>second
    </ul>
 </body>
-```
+{% endhighlight %}
 
 shell block:
 
-``` bash
+{% highlight bash linos %}
 # ls -al
 -rw-------   1 root root      1487 9月  26 14:19 anaconda-ks.cfg
 -rw-------   1 root root      7068 10月  8 17:49 .bash_history
@@ -41,5 +41,5 @@ shell block:
 -rw-r--r--   1 root root       355 9月  28 15:39 .bash_profile
 -rw-r--r--   1 root root       176 9月  26 14:18 .bashrc
 -rw-r--r--   1 root root       100 9月  26 14:18 .cshrc
-```
+{% endhighlight %}
 
