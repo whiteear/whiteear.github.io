@@ -21,6 +21,7 @@ def foob():
 ```
 
 html block:
+
 ```html
 <body>
    <ul>list sample
@@ -31,6 +32,7 @@ html block:
 ```
 
 shell block:
+
 ```bash
 # ls -al
 -rw-------   1 root root      1487 9月  26 14:19 anaconda-ks.cfg
