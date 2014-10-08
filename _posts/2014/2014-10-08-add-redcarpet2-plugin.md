@@ -11,18 +11,18 @@ categories:
 
 python block:
 
-```python
+{% highlight python %}
 def foo():
     print 'aaa'
 
 def foob():
     print 'line2'
 
-```
+{% endhighlight %}
 
 html block:
 
-```html
+``` html
 <body>
    <ul>list sample
       <li>first
@@ -33,7 +33,7 @@ html block:
 
 shell block:
 
-```bash
+``` bash
 # ls -al
 -rw-------   1 root root      1487 9月  26 14:19 anaconda-ks.cfg
 -rw-------   1 root root      7068 10月  8 17:49 .bash_history
