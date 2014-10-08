@@ -9,9 +9,9 @@ tags:
 categories:
 - travel
 
-ditu: true
-ditu_x: 108.814085
-ditu_y: 33.842157
+ditu: 
+  x: 108.814085
+  y: 33.842157
 
 ---
 
