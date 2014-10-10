@@ -1,5 +1,5 @@
 ---
-title: life of whiteear
+title: Life of whiteear 多彩人生
 layout: page
 ---
 
