@@ -5,6 +5,8 @@ layout: default
 <section class="post">
 {{ content }}
 </section>
+
+
 <section class="meta">
 <hr/>
 <!-- disable jim related info 
@@ -36,7 +38,15 @@ layout: default
   <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
 </span>
 </section>
+
+<!-- disque comments support -->
 {% include comments_en.md %}
+
+<!-- adding map support -->
+{% if page.ditu %}
+{% include ditu.md %}
+{% endif %}
+
 <script type="text/javascript">
 $(function(){
   $(document).keydown(function(e) {

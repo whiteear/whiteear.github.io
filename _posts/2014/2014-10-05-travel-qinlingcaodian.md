@@ -40,5 +40,4 @@ ditu:
 ![](/media/2014/141008-qinlingcaodian/10.jpg)
 
 这个美丽的地方就在这儿啦：
-<!--百度地图容器-->
-<div style="width:100%;height:550px;border:#ccc solid 1px;" id="dituContent"></div>
+{{site.ditu.section}}

@@ -39,12 +39,14 @@ layout: default
 </span>
 </section>
 
+<!-- comments section -->
+{% include comments.md %}
+
 <!-- 添加baidu地图支持 -->
 {% if page.ditu %}
 {% include ditu.md %}
 {% endif %}
 
-{% include comments.md %}
 <script type="text/javascript">
 $(function(){
   $(document).keydown(function(e) {

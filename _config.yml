@@ -9,3 +9,6 @@ url: http://whiteear.github.io/
 author: whiteear 
 pygments: true
 paginate: 24
+
+ditu:
+  section: <div style="width:100%; height:550px; border:#ccc solid 1px;" id="dituContent"></div>
