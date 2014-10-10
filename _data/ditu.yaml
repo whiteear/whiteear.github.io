@@ -1,6 +1,0 @@
-# define ditu(map) related variables
-#
-
-width: 100%
-heigh: 550px
-section: <div style="width:100%; height:550px; border:#ccc solid 1px;" id="dituContent"></div>
