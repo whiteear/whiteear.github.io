@@ -16,7 +16,20 @@ navigation:
    url: /about.html
  - title: Contact
    url: /contact.html
+ - title: Programming
+   url: /programming.html
 
+###
+# info
+user:
+  name: chunyang liu
+  email: cyliu7@gmail.com
+  twitter: \@cyliu7
+  facebook: https://facebook.com/chunyang.liu.9
+  weibo: \@代码厨子
+
+###
+# comments support
 comments:
  enable: true
  engine: disqus
