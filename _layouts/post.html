@@ -30,3 +30,10 @@ layout: default
 	  {% endif %} 
 	</div>
 </div>
+
+{% if site.comments.enable == true %}
+
+{% include disqus.md %}
+
+{% endif %}
+

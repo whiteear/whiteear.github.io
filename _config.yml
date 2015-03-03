@@ -16,3 +16,8 @@ navigation:
    url: /about.html
  - title: Contact
    url: /contact.html
+
+comments:
+ enable: true
+ engine: disqus
+
