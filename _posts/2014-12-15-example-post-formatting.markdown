@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "Example Post Formatting" 
+title:  "Example Post Formatting"
+tags: [life, programming]
+
 date:   2014-12-15
 ---
 

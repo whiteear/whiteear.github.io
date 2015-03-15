@@ -10,14 +10,16 @@ pygments: true
 paginate: 5
 
 navigation:
- - title: Home
+ - title: 首页
    url: /index.html
- - title: About
-   url: /about.html
- - title: Contact
-   url: /contact.html
- - title: Programming
+ - title: 人生
+   url: /life.html
+ - title: 程序
    url: /programming.html
+ - title: 关于
+   url: /about.html
+ - title: 联系
+   url: /contact.html
 
 ###
 # info
