@@ -12,10 +12,10 @@ paginate: 5
 navigation:
  - title: 首页
    url: /index.html
- - title: 人生
-   url: /life.html
- - title: 程序
-   url: /programming.html
+# - title: 人生
+#   url: /life.html
+# - title: 程序
+#   url: /programming.html
  - title: 关于
    url: /about.html
  - title: 联系
@@ -29,6 +29,10 @@ user:
   twitter: \@cyliu7
   facebook: https://facebook.com/chunyang.liu.9
   weibo: \@代码厨子
+
+###
+# tags
+tags: [life, programming, other]
 
 ###
 # comments support
