@@ -25,8 +25,8 @@ tags:
 
         <p class="intro">I would like to get message from YOU. Please contact me:</p>
         <ul>
-          <li><a href="https://www.linkedin.com/in/cyliu7">LinkedIn</a>
-          <li><a href="mailto:cyliu7@gmail.com">mail to gmail</a>
-          <li><a href="https://twitter.com/cyliu7">send me a twitts</a>
+          <li><a href="https://www.linkedin.com/in/cyliu7">@LinkedIn</a>
+          <li><a href="mailto:cyliu7@gmail.com">@Gmail</a>
+          <li><a href="https://twitter.com/cyliu7">@twitter</a>
      
 </div>
