@@ -440,7 +440,9 @@ th:last-child {
     border-radius: 3px;
     padding: 20px;
     background: #343642;
-    color: #C1C2C3
+    color: #C1C2C3;
+    width: 80%;
+    margin-left: 10%;
 }
 .highlight .hll {
     background-color: #ffc
@@ -865,9 +867,12 @@ dd {
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 300
 }
-.post figure {
+/*
+ .post figure {
     margin: 3rem 0
 }
+*/
+
 .post figure figcaption {
     text-align: center;
     font-size: .9em;
@@ -905,6 +910,7 @@ dd {
     display: block;
     width: 100%;
     height: 5rem;
+
     overflow: hidden;
     position: relative;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
